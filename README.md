@@ -27,7 +27,7 @@ Languages:
 
 Programming languages:
 
-:golang: :cpp: :java: :kotlin: :python: Bash
+Go, C++, Java, Rust, Kotlin, Python, Groovy, Bash
 
 
 ### 📫 Reach out to me
