@@ -13,12 +13,12 @@ has always been pleasant to me.
 
 Interests:
 
-* Cloud native products/solutions
+* Cloud native products/solutions, [CNCF](https://www.cncf.io/) :cloud:
 * Open-source
 * Distributed systems
 * Software resiliency (fault tolerance)
-* Cryptography
-* Software observability/telemetry
+* Cryptography :lock:
+* Software observability/telemetry :telescope:
 * Workstation - Linux, Vim, i3 :nerd_face:
 
 Languages:
