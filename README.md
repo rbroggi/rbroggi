@@ -19,7 +19,7 @@ Interests:
 * Software resiliency (fault tolerance)
 * Cryptography
 * Software observability/telemetry
-* Linux - workstation as well :slightly_smiling_face:
+* Workstation - Linux, Vim, i3 :nerd_face:
 
 Languages:
 
