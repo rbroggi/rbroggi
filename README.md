@@ -11,7 +11,7 @@ I have a mathematical background and it has played a big role on my career as it
 I'm a friendly and informal person and over the years I've made a lot of friends at work, this is probably the main reason why work
 has always been pleasant to me.
 
-# Interests
+Interests:
 
 * Cloud native products/solutions
 * Distributed systems
@@ -19,8 +19,16 @@ has always been pleasant to me.
 * Cryptography
 * Software observability/telemetry
 
+Languages:
 
-# 📫 Reach out on
+:br: :it: :en: :fr:
+
+Programming languages:
+
+Go, C++, Java, Kotlin, Python, Groovy, Bash
+
+
+### 📫 Reach out on
 
 * [Linkedin](https://www.linkedin.com/in/rbroggi/)
 * [Github](https://github.com/rbroggi)
