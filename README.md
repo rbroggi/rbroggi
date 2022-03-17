@@ -1,16 +1,27 @@
-### Hi there 👋
+# Rodrigo Broggi
 
-<!--
-**rbroggi/rbroggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Presentation
 
-Here are some ideas to get you started:
+Hi there! I'm a software engineer passioned for solving complex problems and a strong believer on team-work.
+I enjoy owning the full life-cycle of the products I help building and I
+have experience building resilient [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and [event-driven applications](https://en.wikipedia.org/wiki/Event-driven_architecture).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a mathematical background and it has played a big role on my career as it has helped me in solving complex problems and to have a general data-oriented mindset.
+
+I'm a friendly and informal person and over the years I've made a lot of friends at work, this is probably the main reason why work
+has always been pleasant to me.
+
+# Interests
+
+* Cloud native products/solutions
+* Distributed systems
+* Software resiliency (fault tolerance)
+* Cryptography
+* Software observability/telemetry
+
+
+# 📫 Reach out on
+
+* [](https://www.linkedin.com/in/rbroggi/)
+* [](https://github.com/rbroggi)
+
