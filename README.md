@@ -21,7 +21,7 @@ Interests:
 
 Languages:
 
-:br: :it: :en: :fr:
+:brazil: :it: :uk: :fr:
 
 Programming languages:
 
