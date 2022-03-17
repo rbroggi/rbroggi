@@ -22,6 +22,6 @@ has always been pleasant to me.
 
 # 📫 Reach out on
 
-* [](https://www.linkedin.com/in/rbroggi/)
-* [](https://github.com/rbroggi)
+* [Linkedin](https://www.linkedin.com/in/rbroggi/)
+* [Github](https://github.com/rbroggi)
 
